@@ -1,0 +1,11 @@
+Incomplete:
+    Ch_1/ summary_excercises/ detaber.c
+    Ch_1/ summary_excercises/ entaber.c
+    
+    Ch_4/ SC_atof.c [Parser + Error handling] [Put binary in converter_bin]
+
+    Ch_6/ char_independant_type.c
+    Ch_6/ keyword_counting/ keyword_counter.c
+    Ch_6/ reader_counter.c
+    Ch_6/ cross_referencer.c
+    Ch_6/ pre_processor_define.c
